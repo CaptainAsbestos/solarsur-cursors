@@ -1,6 +1,6 @@
-# Whitesur cursors
+# Solarized WhiteSur cursors
 This is an x-cursor theme inspired by macOS and
-based on [capitaine-cursors](https://github.com/keeferrourke/capitaine-cursors).
+based on [capitaine-cursors](https://github.com/keeferrourke/capitaine-cursors). I have forked [vinceliuice's repo](https://github.com/vinceliuice/WhiteSur-cursors/) and edited the source images to match [Ethan Schoonover's solarized colour scheme.](https://ethanschoonover.com/solarized/) 
 
 ## Installation
 To install the cursor theme simply copy the compiled theme to your icons
